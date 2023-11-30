@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AudioScribe
 Speech to Text converter
 =======
